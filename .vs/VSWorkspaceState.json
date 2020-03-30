@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Actions"
+    "\\src\\Actions",
+    "\\src\\Components",
+    "\\src\\Reducers"
   ],
+  "SelectedNode": "\\src\\Components\\workOut.js",
   "PreviewInSolutionExplorer": false
 }
